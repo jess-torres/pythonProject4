@@ -1,7 +1,7 @@
-pprint
+django
 google.generativeai
 argparse
 sys
 os
-django
+
 
