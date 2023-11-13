@@ -1,0 +1,3 @@
+requirements:
+django
+JSON file
