@@ -1,3 +1,7 @@
-requirements:
+pprint
+google.generativeai as palm
+argparse
+sys
+os
 django
-JSON file
+
