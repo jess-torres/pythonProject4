@@ -1,5 +1,5 @@
 pprint
-google.generativeai as palm
+google.generativeai
 argparse
 sys
 os
