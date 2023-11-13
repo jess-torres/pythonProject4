@@ -1,7 +1,6 @@
 django
 google.generativeai
 argparse
-sys
-os
+
 
 
